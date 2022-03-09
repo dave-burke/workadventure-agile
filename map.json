@@ -214,7 +214,7 @@
         {
          "columns":16,
          "firstgid":13,
-         "image":"..\/..\/Pictures\/workadventure\/Modern_Office_Black_Shadow_32x32.png",
+         "image":"src\/assets\/Modern_Office_Black_Shadow_32x32.png",
          "imageheight":1696,
          "imagewidth":512,
          "margin":0,
@@ -227,7 +227,7 @@
         {
          "columns":75,
          "firstgid":861,
-         "image":"..\/..\/Pictures\/workadventure\/LimeZu_23_Room_Builder_32x32.png",
+         "image":"src\/assets\/LimeZu_23_Room_Builder_32x32.png",
          "imageheight":2144,
          "imagewidth":2400,
          "margin":0,
